@@ -34,9 +34,9 @@ function preload ()
     this.load.image("ground", "./Assets/Bosque/PNG/ground.png")
     this.load.image("plat_izq", "./Assets/Bosque/PNG/plataforma_izq.png")
     this.load.image("plat_cent", "./Assets/Bosque/PNG/plat_cent.png")
-    this.load.spritesheet("jugador", "./Assets/Link.png", 
+    this.load.spritesheet("jugador", "./Assets/ink.png", 
             {frameWidth: 24, frameHeight: 32}, 96)
-    this.load.spritesheet("slime", "./Assets/Slime.png",
+    this.load.spritesheet("slime", "./Assets/slime.png",
             {frameWidth: 32, frameHeight: 25}, 21) 
 }
 
